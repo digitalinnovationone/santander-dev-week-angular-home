@@ -21,20 +21,11 @@
     >
   -->
     <img 
-      alt="Made by Felipe Aguiar" 
-      src="https://img.shields.io/badge/made%20by-Felipe%20Aguiar-%20?color=6A57D5"
-    >
-    <img 
-      alt="Project top programing language" 
-      src="https://img.shields.io/github/languages/top/felipeAguiarCode/angular-santander-home-clone?color=6A57D5"
-    >
-    <img 
-      alt="Repository size" 
-      src="https://img.shields.io/github/repo-size/felipeAguiarCode/angular-santander-home-clone?color=6A57D5"
-    >
+        src="https://img.shields.io/badge/Code%20With-Angular-E31918?logo=angular" 
+        alt="Code With Angular">
     <img 
       alt="GitHub license" 
-      src="https://img.shields.io/github/license/felipeAguiarCode/angular-santander-home-clone?color=6A57D5"
+      src="https://img.shields.io/github/license/felipeAguiarCode/angular-santander-home-clone?color=E31918"
     >
   </p> 
 
@@ -71,7 +62,7 @@
 </div>
 
 ## 🔥 Features
-- [x] Generate a random Strong Password;
+- [x] Fully Component With Angular
 
 ## Technologies
 
