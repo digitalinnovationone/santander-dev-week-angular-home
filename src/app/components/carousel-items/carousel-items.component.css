@@ -1,0 +1,73 @@
+.carousel-container {
+	display: flex;
+	align-items: center;
+}
+
+.carousel {
+	display: flex;
+	overflow: hidden;
+	width: 600px;
+	height: 200px;
+}
+
+.carousel-item {
+	flex: 0 0 200px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	transition: transform 0.3s ease-in-out;
+}
+
+
+.carousel-item.active {
+	transform: scale(1.1);
+}
+
+.square:hover {
+	transform: scale(1.1);
+}
+
+.square {
+	width: 160px;
+	height: 160px;
+	background-color: white;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	border-radius: 4px;
+	box-shadow: 0 2px 8px -2px rgba(34, 34, 34, 0.4);
+}
+
+.text {
+	font-size: 14px;
+}
+
+.icon {
+	margin-top: 10px;
+}
+
+.carousel-controls {
+	display: flex;
+	align-items: center;
+	margin-top: 10px;
+}
+
+.control-button {
+	background-color: transparent;
+	border: none;
+	cursor: pointer;
+	width: 2rem;
+	height: 2rem;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.control-button.previous {
+	background-image: url('../../../assets/arrow-left.png');
+}
+
+.control-button.next {
+	background-image: url('../../../assets/arrow-right.png');
+}
