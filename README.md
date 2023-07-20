@@ -77,12 +77,29 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The appli
 
 ## Usage
 
-🔧 Run the script
+🔧 1. Install dependencys
 
 ```bash
-$ npm run start
+$ npm install
 ```
 
+🔧 2. Change Directory
+
+```bash
+$ cd santander-client
+```
+
+🔧 3. Run the script
+
+```bash
+$ ng serve
+```
+
+🌐 4. Navigate to
+
+```bash 
+ http://localhost:4200/
+```
 Runs the app in the development mode.<br/>
 
 ## Autor
