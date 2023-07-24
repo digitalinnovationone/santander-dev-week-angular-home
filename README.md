@@ -1,11 +1,11 @@
 <div align="center">
-  <a href="#">
-      <img src=".github/assets/badge.png" width="200" />
-  </a>
 
-  <!-- project name -->
-  <h1 align="center">Santander Home Clone - Angular</h1>
-  
+<h1 align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/101415619-1b103500-389d-11eb-83f8-74f87abf5eaf.png">
+  <br />
+  Santander Home Clone - Angular
+</h1>
+
   <!-- project badges -->
   <p align="center">
  <!--
@@ -21,21 +21,27 @@
     >
   -->
     <img 
-        src="https://img.shields.io/badge/Code%20With-Angular-E31918?logo=angular" 
+        src="https://img.shields.io/badge/Code%20With-Angular%2016-E31918?logo=angular" 
         alt="Code With Angular">
-    <img 
+   	<img 
       alt="GitHub license" 
       src="https://img.shields.io/github/license/felipeAguiarCode/angular-santander-home-clone?color=E31918"
     >
   </p> 
 
+<div align="center">
+  	<a href="#">
+      <img src=".github/assets/preview.png" width="400" alt="preview" />
+  	</a>
+</div>
+
   <!-- project description and menu -->
   <p align="center">
-      A Clone From Santander Card home page
+      A Clone From Santander Card home page with Angular
     <br />
     <a 
       href="## Usage">
-      <strong>Go to usage now »</strong>
+      <strong>Navigate Live Demo Now »</strong>
     </a>
     <br />
     <br />
@@ -53,21 +59,12 @@
   </p>
 </div>
 
-## Preview
-
-<div align="center">
-  <a href="#">
-      <img src=".github/assets/preview.png" width="200" alt="preview" />
-  </a>
-</div>
-
-## 🔥 Features
+## Features
 - [x] Fully Component With Angular
 
-## Technologies
+## Technologies & Techniques
 
 This project was developed with the following technologies:
-
 -   [Angular](https://angular.io)
 
 
@@ -77,13 +74,13 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The appli
 
 ## Usage
 
-🔧 1. Install dependencys
+📦 1. Install dependencys
 
 ```bash
 $ npm install
 ```
 
-🔧 2. Change Directory
+📁 2. Change Directory
 
 ```bash
 $ cd santander-client
@@ -107,3 +104,7 @@ Runs the app in the development mode.<br/>
 | [<img src="https://avatars3.githubusercontent.com/u/37452836?s=96&v=4"><br><sub>Felipe Aguiar</sub>](https://github.com/felipeAguiarCode) |
 | :---------------------------------------------------------------------------------------------------------------------------------------: |
 |                                             [Linkedin](www.linkedin.com/in/felipe-aguiar-exe)                                             |
+
+---
+
+⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
