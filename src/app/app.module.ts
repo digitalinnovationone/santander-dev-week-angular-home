@@ -6,10 +6,20 @@ import { SvgComponentsModule } from './modules/svg-components.module';
 import { HttpClientModule } from '@angular/common/http';
 
 import { AppComponent } from './app.component';
+import { HomeComponent } from './pages/home/home.component';
+import { HeaderComponent } from './components/header/header.component';
+import { CardComponent } from './components/card/card.component';
+import { CardBoxComponent } from './components/card-box/card-box.component';
+import { CarouselItemsComponent } from './components/carousel-items/carousel-items.component';
 
 @NgModule({
 	declarations: [
 		AppComponent,
+  HomeComponent,
+  HeaderComponent,
+  CardComponent,
+  CardBoxComponent,
+  CarouselItemsComponent,
 	],
 	imports: [
 		BrowserModule,
